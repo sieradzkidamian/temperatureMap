@@ -25,6 +25,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -46,7 +47,7 @@
       <workItem from="1612292696015" duration="2607000" />
       <workItem from="1612351462388" duration="3032000" />
       <workItem from="1612374562346" duration="1314000" />
-      <workItem from="1612446820253" duration="4838000" />
+      <workItem from="1612446820253" duration="5147000" />
     </task>
     <servers />
   </component>
@@ -62,9 +63,9 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="667" y="119" width="585" height="801" key="find.popup/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1612375259122" />
-    <state x="616" y="240" key="run.anything.popup" timestamp="1612287652110">
+    <state x="616" y="240" key="run.anything.popup" timestamp="1612451747171">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="616" y="240" key="run.anything.popup/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1612287652110" />
+    <state x="616" y="240" key="run.anything.popup/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1612451747171" />
   </component>
 </project>
